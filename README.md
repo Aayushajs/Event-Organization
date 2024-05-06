@@ -13,7 +13,7 @@
 
   Jain is a fully responsive   website, <br/>Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="event-organization.netlify.app"><strong>➥ Live Demo</strong></a>
+  <a href="https://event-organization.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 <br/>
